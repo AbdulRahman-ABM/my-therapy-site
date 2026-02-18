@@ -126,7 +126,7 @@ export default function AboutPage() {
                   I offer both in-person therapy from my Santa Monica office and secure telehealth sessions for clients located in California. My office is a quiet, private space designed to feel calm and grounding, with natural light and a comfortable, uncluttered environment. Clients often share that the space itself helps them feel more at ease when they arrive.
                 </p>
                 <p className="font-medium text-primary-dark mb-8">
-                  If you’re looking for a therapist who combines practical tools with depth-oriented work—and who understands the realities of living and working in a fast-paced environment I may be a good fit.
+                  If you’re looking for a therapist who combines practical tools with depth-oriented work and who understands the realities of living and working in a fast-paced environment I may be a good fit.
                 </p>
                 <Button size="lg" className="w-full md:w-auto rounded-full shadow-glow">
                   Book a Consultation
