@@ -49,7 +49,7 @@ export default function Intro() {
         <FadeIn direction="left" className="relative w-full aspect-square md:aspect-[4/5] order-1 md:order-2">
           <div className="relative w-full h-full rounded-tr-[160px] rounded-bl-[160px] overflow-hidden shadow-2xl border-4 border-white transform hover:rotate-1 transition-transform duration-700">
              <Image
-              src="/Images/office2.jpg" 
+              src="/images/office2.jpg" 
               alt="Relaxing therapy environment"
               fill
               className="object-cover"

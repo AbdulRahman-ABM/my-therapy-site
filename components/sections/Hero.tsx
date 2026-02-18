@@ -13,7 +13,7 @@ export default function Hero() {
         <FadeIn direction="right" className="relative w-full aspect-[4/5] md:aspect-[3/4] order-first md:order-first">
           <div className="relative w-full h-full clip-arch overflow-hidden bg-stone-200 shadow-soft group">
              <Image
-              src="/Images/office1.jpg"
+              src="/images/office1.jpg"
               alt="Dr. Reynolds Therapy Office"
               fill
               className="object-cover transition-transform duration-[2s] scale-100 group-hover:scale-105"

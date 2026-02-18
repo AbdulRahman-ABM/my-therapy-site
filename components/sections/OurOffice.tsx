@@ -61,7 +61,7 @@ export default function OurOffice() {
           <FadeIn direction="left" className="absolute top-0 right-0 w-[85%] h-[90%] z-0">
             <div className="relative w-full h-full clip-arch overflow-hidden shadow-2xl border-8 border-stone-50">
               <Image
-                src="/Images/office1.jpg"
+                src="/images/office1.jpg"
                 alt="Main therapy seating area with brick walls"
                 fill
                 className="object-cover"
@@ -73,7 +73,7 @@ export default function OurOffice() {
           <FadeIn delay={0.3} direction="up" className="absolute bottom-0 left-0 w-56 h-56 md:w-72 md:h-72 z-10">
             <div className="relative w-full h-full rounded-full overflow-hidden shadow-xl border-8 border-white">
               <Image
-                src="/Images/office2.jpg"
+                src="/images/office2.jpg"
                 alt="Office bookshelf and detail shot"
                 fill
                 className="object-cover"

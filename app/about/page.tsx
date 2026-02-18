@@ -33,7 +33,7 @@ export default function AboutPage() {
               <FadeIn direction="right">
                 <div className="relative aspect-[3/4] rounded-t-[10rem] rounded-b-2xl overflow-hidden shadow-2xl border-4 border-white">
                   <Image 
-                    src="/Images/About.jpg" 
+                    src="/images/Bio.jpg" 
                     alt="Dr. Maya Reynolds Portrait" 
                     fill 
                     className="object-cover"

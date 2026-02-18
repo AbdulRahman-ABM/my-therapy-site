@@ -11,7 +11,7 @@ export default function Empathy() {
         <div className="relative w-full aspect-[4/5] md:h-[600px] animate-fade-in-up">
           <div className="relative w-full h-full rounded-t-[200px] rounded-b-lg overflow-hidden shadow-xl border-4 border-white">
              <Image
-              src="/Images/Relax.jpg"
+              src="/images/Relax.jpg"
               alt="Woman looking thoughtful and introspective"
               fill
               className="object-cover"

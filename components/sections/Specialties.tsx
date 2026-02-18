@@ -7,7 +7,7 @@ const specialties = [
   {
     title: "Anxiety & Overwhelm",
     description: "For high-achievers who feel functional on the outside but are constantly bracing for the next problem. We work on quieting the internal noise.",
-    image: "/Images/coffee.jpg",
+    image: "/images/coffee.jpg",
   },
   {
     title: "Trauma & Resilience",

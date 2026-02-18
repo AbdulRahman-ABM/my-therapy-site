@@ -41,7 +41,7 @@ export default function Bio() {
           <div className="relative w-3/4 aspect-[3/4] z-10">
             <div className="w-full h-full clip-arch overflow-hidden bg-stone-200 shadow-soft">
                <Image
-                src="/Images/Bio.jpg"
+                src="/images/Bio.jpg"
                 alt="Dr. Maya Reynolds"
                 fill
                 className="object-cover"
