@@ -82,7 +82,7 @@ export default function AboutPage() {
                 </p>
                 
                 <p>
-                  I offer therapy for adults who feel overwhelmed by anxiety, stress, or the lingering effects of past experiences. Many of the people I work with are high-achieving, thoughtful, and self-aware—but internally feel exhausted, stuck in overthinking, or emotionally on edge.
+                  I offer therapy for adults who feel overwhelmed by anxiety, stress, or the lingering effects of past experiences. Many of the people I work with are high-achieving, thoughtful, and self-aware but internally feel exhausted, stuck in overthinking, or emotionally on edge.
                 </p>
               </FadeIn>
 
@@ -109,7 +109,7 @@ export default function AboutPage() {
               <FadeIn delay={0.4}>
                 <h3 className="text-2xl font-serif text-primary-dark mb-4">Trauma & Resilience</h3>
                 <p>
-                  Trauma work is an important part of my practice. I work with adults who have experienced single-incident trauma as well as more complex, long-standing patterns that may stem from childhood, relationships, or chronic stress. My approach is paced carefully, with an emphasis on safety, stabilization, and helping clients feel more regulated in their daily lives—not just during sessions.
+                  Trauma work is an important part of my practice. I work with adults who have experienced single-incident trauma as well as more complex, long-standing patterns that may stem from childhood, relationships, or chronic stress. My approach is paced carefully, with an emphasis on safety, stabilization, and helping clients feel more regulated in their daily lives not just during sessions.
                 </p>
               </FadeIn>
 
@@ -126,7 +126,7 @@ export default function AboutPage() {
                   I offer both in-person therapy from my Santa Monica office and secure telehealth sessions for clients located in California. My office is a quiet, private space designed to feel calm and grounding, with natural light and a comfortable, uncluttered environment. Clients often share that the space itself helps them feel more at ease when they arrive.
                 </p>
                 <p className="font-medium text-primary-dark mb-8">
-                  If you’re looking for a therapist who combines practical tools with depth-oriented work—and who understands the realities of living and working in a fast-paced environment—I may be a good fit.
+                  If you’re looking for a therapist who combines practical tools with depth-oriented work—and who understands the realities of living and working in a fast-paced environment I may be a good fit.
                 </p>
                 <Button size="lg" className="w-full md:w-auto rounded-full shadow-glow">
                   Book a Consultation

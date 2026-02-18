@@ -20,7 +20,7 @@ export default function Intro() {
           
           <div className="space-y-6 text-lg text-stone-700 leading-relaxed">
             <p>
-              Many of the people I work with are high-achieving and self-aware—but internally, they feel exhausted. You might be "functional" on the outside while quietly struggling with constant worry.
+              Many of the people I work with are high-achieving and self-aware but internally, they feel exhausted. You might be "functional" on the outside while quietly struggling with constant worry.
             </p>
             <p>
               My goal isn't just symptom relief, but helping you develop insight, resilience, and a stronger relationship with yourself.

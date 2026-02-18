@@ -26,7 +26,7 @@ export default function Empathy() {
           </h2>
           
           <p className="text-lg text-stone-700 mb-8 leading-relaxed">
-            Life can be challenging—especially when you're trying to balance a demanding career with your personal well-being. It’s easy to feel like you’re the only one navigating this, but there is hope.
+            Life can be challenging especially when you're trying to balance a demanding career with your personal well-being. It’s easy to feel like you’re the only one navigating this, but there is hope.
           </p>
 
           <div className="space-y-4">

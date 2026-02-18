@@ -22,7 +22,7 @@ export default function OurOffice() {
 
           <div className="space-y-6 text-lg text-stone-700 leading-relaxed">
             <p>
-              Located in the heart of Santa Monica, my office is more than just a room—it’s a quiet, private sanctuary designed to help you slow down the moment you walk through the door. 
+              Located in the heart of Santa Monica, my office is more than just a room it’s a quiet, private sanctuary designed to help you slow down the moment you walk through the door. 
             </p>
             <p>
               I’ve curated this environment to feel grounding and uncluttered. With high ceilings, natural brick, and soft sunlight, the space provides a comfortable backdrop where you can feel secure exploring your thoughts and experiences.
